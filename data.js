@@ -75,7 +75,8 @@ window.SIG_DATA = {
         "If you have cardistry or magic experience, you can expect to have plenty of opportunities to show off your skills at various Nanyang events, host workshops, and even earn VIA hours through performing for the community.",
         "There will be exclusive sessions for NYMS members to learn hand-picked tricks throughout the year, so what are you waiting for? Follow us at nymagicsociety on Instagram to not miss out!"
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/nymagicsociety-instagram.jpg"
     },
     {
       "id": "nanyang-astronomers-club-nyastro",
@@ -145,7 +146,8 @@ window.SIG_DATA = {
         "One of our flagship initiatives is Lumiere, a tutoring programme where members volunteer at secondary schools to mentor students preparing for the Singapore Junior Physics Olympiad (SJPO). Through engaging lessons and problem-solving sessions, we seek to nurture young talents and share our passion for physics with the wider community. We also organise learning journeys to research institutions across Singapore, offering members valuable opportunities to gain insights into cutting-edge research and discover real-world applications of physics.",
         "Beyond these initiatives, NYSingularity actively contributes to the school community through interactive showcases of physics phenomena during events such as Science Day. We also support students in their academic pursuits by preparing detailed solutions to physics examination papers, allowing them to evaluate their answers and identify areas for improvement before script checking. Additionally, we curate and share resources to support those preparing for the Physics Olympiad (SPhO), encouraging students to challenge themselves beyond the syllabus."
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/nysingularity-logo.webp"
     },
     {
       "id": "green-alliance",
