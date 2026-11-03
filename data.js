@@ -45,7 +45,7 @@ window.SIG_DATA = {
   "groups": [
     {
       "id": "nymagic",
-      "name": "NYMagic Society",
+      "name": "NYMagic",
       "category": "games--strategy-and-puzzles",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/nymagic/",
       "photos": [
@@ -56,14 +56,12 @@ window.SIG_DATA = {
         },
         {
           "src": "assets/nymagic-2.jpg",
-          "alt": "NYMagic Society members together",
+          "alt": "NYMagic members together",
           "caption": ""
         }
       ],
       "description": "Learn magic and cardistry, share your skills in workshops and perform for the community.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": "https://www.instagram.com/nymagicsociety/",
       "exco": [
@@ -73,7 +71,7 @@ window.SIG_DATA = {
       ],
       "about": [
         "Is this…your card? 🃏",
-        "Welcome to NYMagic Society! If you’ve wanted to learn awesome tricks, perform mesmerising card moves, and watch stunning performances, this is your place to be. 🪄We are a chill and easy going SIG with little to no commitment on your end besides have a fun and fruitful time with us!",
+        "Welcome to NYMagic! If you’ve wanted to learn awesome tricks, perform mesmerising card moves, and watch stunning performances, this is your place to be. 🪄We are a chill and easy going SIG with little to no commitment on your end besides have a fun and fruitful time with us!",
         "If you have cardistry or magic experience, you can expect to have plenty of opportunities to show off your skills at various Nanyang events, host workshops, and even earn VIA hours through performing for the community.",
         "There will be exclusive sessions for NYMS members to learn hand-picked tricks throughout the year, so what are you waiting for? Follow us at nymagicsociety on Instagram to not miss out!"
       ],
@@ -81,7 +79,7 @@ window.SIG_DATA = {
     },
     {
       "id": "nanyang-astronomers-club-nyastro",
-      "name": "Nanyang Astronomers’ Club",
+      "name": "NYAstro",
       "category": "stem-and-academic-exploration",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/nanyang-astronomers-club-nyastro/",
       "photos": [
@@ -98,8 +96,6 @@ window.SIG_DATA = {
       ],
       "description": "Explore the universe through stargazing, inter-school collaborations, research and astronomy competitions.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": "",
       "exco": [
@@ -120,7 +116,7 @@ window.SIG_DATA = {
     },
     {
       "id": "ny-singularity",
-      "name": "NYSingularity (Physics Society)",
+      "name": "NYSingularity",
       "category": "stem-and-academic-exploration",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/ny-singularity/",
       "photos": [
@@ -137,8 +133,6 @@ window.SIG_DATA = {
       ],
       "description": "Explore physics through Lumiere tutoring, research visits, interactive showcases and Olympiad support.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": "",
       "exco": [
@@ -161,8 +155,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Environmental education and action for a more sustainable planet.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -174,10 +166,8 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Animal welfare advocacy, volunteering and community events.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/pawsongram/"
     },
     {
       "id": "diabolo",
@@ -187,8 +177,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Learn diabolo tricks and perform alongside fellow enthusiasts.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -200,21 +188,17 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Experiment with slime-making and share your creative inventions.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
     {
       "id": "ny-writers-circle",
-      "name": "NY Writer's Circle",
+      "name": "Writers’ Circle",
       "category": "arts--crafts-and-creative-expression",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/ny-writers-circle/",
       "photos": [],
       "description": "Develop your writing through collaboration, sharing and competitions.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -226,10 +210,8 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Try different art forms and showcase your creativity at school events.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/nyartsig/"
     },
     {
       "id": "nycrochers",
@@ -239,10 +221,8 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore crochet projects, from coasters to amigurumi.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/nycrochers/"
     },
     {
       "id": "nythreads",
@@ -252,10 +232,8 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Make bracelets and embroidery while learning thread crafts at your own pace.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/nyjcthreads/"
     },
     {
       "id": "chinese-debate",
@@ -265,8 +243,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Debate topical issues and develop public speaking and critical thinking.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -278,8 +254,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Write about campus life and global issues through student journalism.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -291,8 +265,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Help bring the school library to life through events and screenings.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -304,8 +276,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Connect with other students through recreational games.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -317,8 +287,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Practise international chess, xiangqi and weiqi with fellow players.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -330,8 +298,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore twisty puzzles, speedcubing and blindfolded solves.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -343,8 +309,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Discuss world history and current affairs through presentations and debates.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -356,8 +320,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore the human mind and big questions through discussions and workshops.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -369,8 +331,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore budgeting, investing and education funding.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -382,8 +342,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Examine legal issues and develop your understanding of law.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -395,8 +353,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore geography through field studies and discussions about real-world issues.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -408,8 +364,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Discover Southeast Asian traditions through cultural activities and films.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -421,8 +375,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore Chinese literature, writing and culture through workshops and outings.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -434,8 +386,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Learn conversational Korean and explore Korean popular culture.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -447,8 +397,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Learn Singapore Sign Language and better understand the deaf community.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -460,8 +408,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore Japanese culture, including anime, manga and J-pop.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -473,8 +419,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Learn Hokkien and Cantonese and connect across generations.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -486,8 +430,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore Chinese calligraphy, brush techniques and cultural traditions.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -499,8 +441,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Learn guitar and music theory, with opportunities to perform.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -512,10 +452,8 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore K-pop dance and perform with fellow fans.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/nyjckorzy/"
     },
     {
       "id": "nanyang-harmonix-nyhx",
@@ -525,8 +463,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Sing and perform with a community of music enthusiasts.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -538,8 +474,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Make live music in bands and perform at school events.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -551,8 +485,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Grow your string-playing skills and share music with others.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -564,10 +496,8 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Collaborate on original songs, lyrics and performances.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
-      "instagram": ""
+      "instagram": "https://www.instagram.com/ny.crescendo/"
     },
     {
       "id": "ny-voices",
@@ -577,8 +507,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Celebrate Chinese music through singing and performances.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -590,8 +518,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore music production and create your own tracks.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -603,8 +529,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Learn, perform and share an appreciation for piano music.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -616,8 +540,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore Chinese opera and cross talk through performance.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -629,8 +551,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore economic ideas through discussions, debates and games.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -642,8 +562,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Discuss engineering topics, including aerospace and automobile engineering.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -655,8 +573,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore mathematics and train for competitions with other enthusiasts.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -668,8 +584,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Develop programming skills through coding sessions and competitions.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -681,8 +595,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore chemistry concepts and molecular reactions beyond the classroom.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     },
@@ -694,8 +606,6 @@ window.SIG_DATA = {
       "photos": [],
       "description": "Explore biology through experiments, research and healthcare exposure.",
       "activities": [],
-      "schedule": "",
-      "location": "",
       "joinUrl": "",
       "instagram": ""
     }
