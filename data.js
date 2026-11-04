@@ -260,17 +260,6 @@ window.SIG_DATA = {
       "instagram": ""
     },
     {
-      "id": "the-drum-media-resource-library",
-      "name": "The Drum (Media Resource Library)",
-      "category": "communication-and-media",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/the-drum-media-resource-library/",
-      "photos": [],
-      "description": "Help bring the school library to life through events and screenings.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "ministry-of-recreational-games",
       "name": "Ministry of Recreational Games",
       "category": "games--strategy-and-puzzles",
@@ -365,17 +354,6 @@ window.SIG_DATA = {
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/asean-literacy-club-nyasean/",
       "photos": [],
       "description": "Discover Southeast Asian traditions through cultural activities and films.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "chinese-literary-club",
-      "name": "Chinese Literary Club",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/chinese-literary-club/",
-      "photos": [],
-      "description": "Explore Chinese literature, writing and culture through workshops and outings.",
       "activities": [],
       "joinUrl": "",
       "instagram": ""
@@ -524,17 +502,6 @@ window.SIG_DATA = {
       "instagram": ""
     },
     {
-      "id": "nypianists",
-      "name": "NYpianists",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nypianists/",
-      "photos": [],
-      "description": "Learn, perform and share an appreciation for piano music.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "nyqy",
       "name": "NYQY",
       "category": "music-and-performing-arts",
@@ -610,6 +577,28 @@ window.SIG_DATA = {
       "activities": [],
       "joinUrl": "",
       "instagram": ""
+    },
+    {
+      "id": "nyglaze",
+      "name": "NYGlaze",
+      "category": "arts--crafts-and-creative-expression",
+      "description": "More details coming soon.",
+      "activities": [],
+      "photos": [],
+      "joinUrl": "",
+      "instagram": "",
+      "source": ""
+    },
+    {
+      "id": "ny-capture-the-flag",
+      "name": "NY Capture The Flag",
+      "category": "stem-and-academic-exploration",
+      "description": "More details coming soon.",
+      "activities": [],
+      "photos": [],
+      "joinUrl": "",
+      "instagram": "",
+      "source": ""
     }
   ]
 };
