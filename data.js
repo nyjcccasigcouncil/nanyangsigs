@@ -98,7 +98,7 @@ window.SIG_DATA = {
       "description": "Explore the universe through stargazing, inter-school collaborations, research and astronomy competitions.",
       "activities": [],
       "joinUrl": "",
-      "instagram": "",
+      "instagram": "https://www.instagram.com/ny.astro/",
       "exco": [
         "President: Gu TongShuo Shaquille",
         "VP: Anbarasu Elavenil",
