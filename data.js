@@ -113,7 +113,8 @@ window.SIG_DATA = {
         "To further strengthen interests, we also support NYAstronomers who join competitions like the Singapore Astronomy Olympiad, AstroChallenge, and AstroShowdown with resources and notes.",
         "Through Astronomy, we aspire to inspire NYJCians and promote the spirit of learning!"
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/nyastro-logo.jpeg"
     },
     {
       "id": "ny-singularity",
