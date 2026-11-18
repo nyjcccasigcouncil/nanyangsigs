@@ -151,50 +151,6 @@ window.SIG_DATA = {
       "logo": "assets/nysingularity-logo.webp"
     },
     {
-      "id": "green-alliance",
-      "name": "Green Alliance",
-      "category": "advocacy-and-community-service",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/advocacy-and-community-service/green-alliance/",
-      "photos": [],
-      "description": "Environmental education and action for a more sustainable planet.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "paws-on-parade",
-      "name": "Paws On Parade",
-      "category": "advocacy-and-community-service",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/advocacy-and-community-service/paws-on-parade/",
-      "photos": [],
-      "description": "Animal welfare advocacy, volunteering and community events.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/pawsongram/"
-    },
-    {
-      "id": "diabolo",
-      "name": "Diabolo",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/diabolo/",
-      "photos": [],
-      "description": "Learn diabolo tricks and perform alongside fellow enthusiasts.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nanyang-slab",
-      "name": "Nanyang SLab",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nanyang-slab/",
-      "photos": [],
-      "description": "Experiment with slime-making and share your creative inventions.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "ny-writers-circle",
       "name": "Writers’ Circle",
       "category": "arts--crafts-and-creative-expression",
@@ -235,28 +191,6 @@ window.SIG_DATA = {
       "providedDetails": true
     },
     {
-      "id": "nyarts",
-      "name": "NYArts",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nyarts/",
-      "photos": [],
-      "description": "Try different art forms and showcase your creativity at school events.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nyartsig/"
-    },
-    {
-      "id": "nycrochers",
-      "name": "NYCrochers",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nycrochers/",
-      "photos": [],
-      "description": "Explore crochet projects, from coasters to amigurumi.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nycrochers/"
-    },
-    {
       "id": "nythreads",
       "name": "NYThreads",
       "category": "arts--crafts-and-creative-expression",
@@ -289,61 +223,6 @@ window.SIG_DATA = {
       "providedDetails": true
     },
     {
-      "id": "chinese-debate",
-      "name": "Chinese Debate",
-      "category": "communication-and-media",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/chinese-debate/",
-      "photos": [],
-      "description": "Debate topical issues and develop public speaking and critical thinking.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nanyang-times",
-      "name": "Nanyang Times",
-      "category": "communication-and-media",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/nanyang-times/",
-      "photos": [],
-      "description": "Write about campus life and global issues through student journalism.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "ministry-of-recreational-games",
-      "name": "Ministry of Recreational Games",
-      "category": "games--strategy-and-puzzles",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/ministry-of-recreational-games/",
-      "photos": [],
-      "description": "Connect with other students through recreational games.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "ny-chess-club",
-      "name": "NY Chess Club",
-      "category": "games--strategy-and-puzzles",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/ny-chess-club/",
-      "photos": [],
-      "description": "Practise international chess, xiangqi and weiqi with fellow players.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nycubers",
-      "name": "NYCubers",
-      "category": "games--strategy-and-puzzles",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/nycubers/",
-      "photos": [],
-      "description": "Explore twisty puzzles, speedcubing and blindfolded solves.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "hacas-humanities-current-affairs-society",
       "name": "HACAS (History & Current Affairs Society)",
       "category": "humanities-and-social-sciences",
@@ -373,28 +252,6 @@ window.SIG_DATA = {
         "Curious about what else we do? Follow our Insta: @nyjchacas"
       ],
       "providedDetails": true
-    },
-    {
-      "id": "nanyang-philosophy-and-psychology-club",
-      "name": "Nanyang Philosophy and Psychology Club",
-      "category": "humanities-and-social-sciences",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/nanyang-philosophy-and-psychology-club/",
-      "photos": [],
-      "description": "Explore the human mind and big questions through discussions and workshops.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "ny-financial-literacy",
-      "name": "NY Financial Literacy",
-      "category": "humanities-and-social-sciences",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-financial-literacy/",
-      "photos": [],
-      "description": "Explore budgeting, investing and education funding.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
     },
     {
       "id": "ny-legal-lions",
@@ -430,39 +287,6 @@ window.SIG_DATA = {
         "Whether you aspire to pursue law or are simply curious about the legal world, NY Legal Lions welcomes you!"
       ],
       "providedDetails": true
-    },
-    {
-      "id": "ny-rocks",
-      "name": "NY Rocks",
-      "category": "humanities-and-social-sciences",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-rocks/",
-      "photos": [],
-      "description": "Explore geography through field studies and discussions about real-world issues.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "asean-literacy-club-nyasean",
-      "name": "ASEAN Literacy Club (NYASEAN)",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/asean-literacy-club-nyasean/",
-      "photos": [],
-      "description": "Discover Southeast Asian traditions through cultural activities and films.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "hanja",
-      "name": "Hanja",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/hanja/",
-      "photos": [],
-      "description": "Learn conversational Korean and explore Korean popular culture.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
     },
     {
       "id": "hear-me-out",
@@ -536,39 +360,6 @@ window.SIG_DATA = {
       "providedDetails": true
     },
     {
-      "id": "nydialects",
-      "name": "NYDialects",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
-      "photos": [],
-      "description": "Learn Hokkien and Cantonese and connect across generations.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nyshufa",
-      "name": "NYShuFa",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nyshufa/",
-      "photos": [],
-      "description": "Explore Chinese calligraphy, brush techniques and cultural traditions.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "acoustic-movement",
-      "name": "Acoustic Movement",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/acoustic-movement/",
-      "photos": [],
-      "description": "Learn guitar and music theory, with opportunities to perform.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "korzy",
       "name": "Korzy",
       "category": "music-and-performing-arts",
@@ -605,28 +396,6 @@ window.SIG_DATA = {
       "providedDetails": true
     },
     {
-      "id": "nanyang-harmonix-nyhx",
-      "name": "Nanyang Harmonix (NYHX)",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-harmonix-nyhx/",
-      "photos": [],
-      "description": "Sing and perform with a community of music enthusiasts.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nanyang-musicians-club",
-      "name": "Nanyang Musicians Club",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-musicians-club/",
-      "photos": [],
-      "description": "Make live music in bands and perform at school events.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "nanyang-strings-ensemble-nyse",
       "name": "Nanyang Strings Ensemble (NYSE)",
       "category": "music-and-performing-arts",
@@ -659,72 +428,6 @@ window.SIG_DATA = {
         "Our sessions are open to all members and students, regardless of musical background and skill level. We also offer to teach the violin and cello to beginners during our session to encourage anyone interested to pick up a new instrument and adjust our performance opportunities to best suit their needs."
       ],
       "providedDetails": true
-    },
-    {
-      "id": "ny-crescendo",
-      "name": "NY Crescendo",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/ny-crescendo/",
-      "photos": [],
-      "description": "Collaborate on original songs, lyrics and performances.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/ny.crescendo/"
-    },
-    {
-      "id": "ny-voices",
-      "name": "NY Voices",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/ny-voices/",
-      "photos": [],
-      "description": "Celebrate Chinese music through singing and performances.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nymp",
-      "name": "NYMP",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nymp/",
-      "photos": [],
-      "description": "Explore music production and create your own tracks.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nyqy",
-      "name": "NYQY",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nyqy/",
-      "photos": [],
-      "description": "Explore Chinese opera and cross talk through performance.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "economics-society",
-      "name": "Economics Society",
-      "category": "stem-and-academic-exploration",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/economics-society/",
-      "photos": [],
-      "description": "Explore economic ideas through discussions, debates and games.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "enginyeering",
-      "name": "EngiNYeering",
-      "category": "stem-and-academic-exploration",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/enginyeering/",
-      "photos": [],
-      "description": "Discuss engineering topics, including aerospace and automobile engineering.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
     },
     {
       "id": "mathematics-club",
@@ -900,6 +603,303 @@ window.SIG_DATA = {
         "As a student-led community, we foster an environment where NYJCians can master the art of resin work, share techniques, and express their artistic flair together. Looking ahead, we aim to expand our resin experimentation by combining shaped air-dry clay with crystal-clear resin coatings—using resin's protective strength and glassy sheen to elevate multi-medium designs. Through sessions within NYJC, NYglaze strives to inspire creativity and share the unique beauty of resin art with the school community."
       ],
       "providedDetails": true
+    },
+    {
+      "id": "green-alliance",
+      "name": "Green Alliance",
+      "category": "advocacy-and-community-service",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/advocacy-and-community-service/green-alliance/",
+      "photos": [],
+      "description": "Environmental education and action for a more sustainable planet.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "paws-on-parade",
+      "name": "Paws On Parade",
+      "category": "advocacy-and-community-service",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/advocacy-and-community-service/paws-on-parade/",
+      "photos": [],
+      "description": "Animal welfare advocacy, volunteering and community events.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/pawsongram/"
+    },
+    {
+      "id": "diabolo",
+      "name": "Diabolo",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/diabolo/",
+      "photos": [],
+      "description": "Learn diabolo tricks and perform alongside fellow enthusiasts.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nanyang-slab",
+      "name": "Nanyang SLab",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nanyang-slab/",
+      "photos": [],
+      "description": "Experiment with slime-making and share your creative inventions.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nyarts",
+      "name": "NYArts",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nyarts/",
+      "photos": [],
+      "description": "Try different art forms and showcase your creativity at school events.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyartsig/"
+    },
+    {
+      "id": "nycrochers",
+      "name": "NYCrochers",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nycrochers/",
+      "photos": [],
+      "description": "Explore crochet projects, from coasters to amigurumi.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nycrochers/"
+    },
+    {
+      "id": "chinese-debate",
+      "name": "Chinese Debate",
+      "category": "communication-and-media",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/chinese-debate/",
+      "photos": [],
+      "description": "Debate topical issues and develop public speaking and critical thinking.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nanyang-times",
+      "name": "Nanyang Times",
+      "category": "communication-and-media",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/nanyang-times/",
+      "photos": [],
+      "description": "Write about campus life and global issues through student journalism.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "ministry-of-recreational-games",
+      "name": "Ministry of Recreational Games",
+      "category": "games--strategy-and-puzzles",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/ministry-of-recreational-games/",
+      "photos": [],
+      "description": "Connect with other students through recreational games.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "ny-chess-club",
+      "name": "NY Chess Club",
+      "category": "games--strategy-and-puzzles",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/ny-chess-club/",
+      "photos": [],
+      "description": "Practise international chess, xiangqi and weiqi with fellow players.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nycubers",
+      "name": "NYCubers",
+      "category": "games--strategy-and-puzzles",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/nycubers/",
+      "photos": [],
+      "description": "Explore twisty puzzles, speedcubing and blindfolded solves.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nanyang-philosophy-and-psychology-club",
+      "name": "Nanyang Philosophy and Psychology Club",
+      "category": "humanities-and-social-sciences",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/nanyang-philosophy-and-psychology-club/",
+      "photos": [],
+      "description": "Explore the human mind and big questions through discussions and workshops.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "ny-financial-literacy",
+      "name": "NY Financial Literacy",
+      "category": "humanities-and-social-sciences",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-financial-literacy/",
+      "photos": [],
+      "description": "Explore budgeting, investing and education funding.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "ny-rocks",
+      "name": "NY Rocks",
+      "category": "humanities-and-social-sciences",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-rocks/",
+      "photos": [],
+      "description": "Explore geography through field studies and discussions about real-world issues.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "asean-literacy-club-nyasean",
+      "name": "ASEAN Literacy Club (NYASEAN)",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/asean-literacy-club-nyasean/",
+      "photos": [],
+      "description": "Discover Southeast Asian traditions through cultural activities and films.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "hanja",
+      "name": "Hanja",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/hanja/",
+      "photos": [],
+      "description": "Learn conversational Korean and explore Korean popular culture.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nydialects",
+      "name": "NYDialects",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
+      "photos": [],
+      "description": "Learn Hokkien and Cantonese and connect across generations.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nyshufa",
+      "name": "NYShuFa",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nyshufa/",
+      "photos": [],
+      "description": "Explore Chinese calligraphy, brush techniques and cultural traditions.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "acoustic-movement",
+      "name": "Acoustic Movement",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/acoustic-movement/",
+      "photos": [],
+      "description": "Learn guitar and music theory, with opportunities to perform.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nanyang-harmonix-nyhx",
+      "name": "Nanyang Harmonix (NYHX)",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-harmonix-nyhx/",
+      "photos": [],
+      "description": "Sing and perform with a community of music enthusiasts.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nanyang-musicians-club",
+      "name": "Nanyang Musicians Club",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-musicians-club/",
+      "photos": [],
+      "description": "Make live music in bands and perform at school events.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "ny-crescendo",
+      "name": "NY Crescendo",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/ny-crescendo/",
+      "photos": [],
+      "description": "Collaborate on original songs, lyrics and performances.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/ny.crescendo/"
+    },
+    {
+      "id": "ny-voices",
+      "name": "NY Voices",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/ny-voices/",
+      "photos": [],
+      "description": "Celebrate Chinese music through singing and performances.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nymp",
+      "name": "NYMP",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nymp/",
+      "photos": [],
+      "description": "Explore music production and create your own tracks.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "nyqy",
+      "name": "NYQY",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nyqy/",
+      "photos": [],
+      "description": "Explore Chinese opera and cross talk through performance.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "economics-society",
+      "name": "Economics Society",
+      "category": "stem-and-academic-exploration",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/economics-society/",
+      "photos": [],
+      "description": "Explore economic ideas through discussions, debates and games.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
+    },
+    {
+      "id": "enginyeering",
+      "name": "EngiNYeering",
+      "category": "stem-and-academic-exploration",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/enginyeering/",
+      "photos": [],
+      "description": "Discuss engineering topics, including aerospace and automobile engineering.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": ""
     },
     {
       "id": "ny-capture-the-flag",
