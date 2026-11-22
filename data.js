@@ -605,6 +605,188 @@ window.SIG_DATA = {
       "providedDetails": true
     },
     {
+      "id": "ny-chess-club",
+      "name": "NY Chess Club",
+      "category": "games--strategy-and-puzzles",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/ny-chess-club/",
+      "photos": [
+        {
+          "src": "assets/ny-chess-club-20261122-1.webp",
+          "alt": "NY Chess Club activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/ny-chess-club-20261122-2.webp",
+          "alt": "NY Chess Club activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Practise international chess, xiangqi and weiqi with fellow players.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "",
+      "about": [
+        "NYChessClub is a place where people who share a love for chess come together, make friends and, of course, enjoy a great game! Whether you're a beginner who's still learning the basics or an experienced player looking for a challenge, there's always a place for you here!",
+        "Beyond just playing chess, some players will regularly analyse games for all to see, giving everyone a chance to learn, improve and put their skills to the test through puzzles set up by more experienced players. It's also a great opportunity to meet new people, exchange ideas, learn new strategies and challenge yourself against players of different skill levels.",
+        "But most importantly, we're all about having fun and building a community where everyone feels welcome. From intense games over the board to casual conversations between matches, there's never a dull moment!",
+        "So whether you're looking to become a better player, try something new or simply meet fellow chess enthusiasts, NYChessClub is the place to be!"
+      ],
+      "exco": [
+        "President: Chang Hao Yu",
+        "VP: Ong Yan Cheng",
+        "VP: Chew Efoong"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nanyang-philosophy-and-psychology-club",
+      "name": "Nanyang Psychology and Philosophy Club (NYPP)",
+      "category": "humanities-and-social-sciences",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/nanyang-philosophy-and-psychology-club/",
+      "photos": [
+        {
+          "src": "assets/nanyang-philosophy-and-psychology-club-20261122-1.webp",
+          "alt": "Nanyang Psychology and Philosophy Club Instagram page featuring psychology and philosophy posts",
+          "caption": ""
+        },
+        {
+          "src": "assets/nanyang-philosophy-and-psychology-club-20261122-2.webp",
+          "alt": "Nanyang Psychology and Philosophy Club (NYPP) activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Explore the human mind and big questions through discussions and workshops.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyjc.nypp/",
+      "about": [
+        "The Nanyang Psychology and Philosophy Club (NYPP) is a Student Interest Group (SIG) with over 100 members for students interested in psychology and philosophy. We provide a platform for people to volunteer for mental health causes, discuss philosophy topics and learn more about psychology and philosophy through workshops, career explorations and social media.",
+        "NYPP conducts workshops for people who are interested in Psychology and Philosophy and has monthly Instagram posts on our Instagram page @nyjc.nypp featuring a new psych or philosophy topic. We also promote mental health related volunteering opportunities from various beneficiaries such as Club Heal and Singapore Association of Mental Health, including collaborations with them to give NYJCians a platform to explore mental health related volunteering.",
+        "Whether you are interested in pursuing a degree in psychology or philosophy in the future, passionate about volunteering or just curious about understanding how our human brains work or debate over moral dilemmas, NYPP provides exciting opportunities for all!",
+        "Our main project in 2026 was the YouthAlive Event organised by Singapore Association of Mental Health (SAMH) where we had the privilege to create a suspect detective board over the course of a month for their biannual flagship event. The event reached over 500 students nationwide and our board played a critical role in engaging them."
+      ],
+      "exco": [
+        "President: Charis Ng",
+        "VP (Psych): Cara",
+        "VP (Philosophy): Ang Cun You",
+        "Research and Social Media Head: Luke Ee"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nyshufa",
+      "name": "NYShuFa",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nyshufa/",
+      "photos": [
+        {
+          "src": "assets/nyshufa-20261122-1.webp",
+          "alt": "NYShuFa activity photo 1",
+          "caption": ""
+        }
+      ],
+      "description": "Explore Chinese calligraphy, brush techniques and cultural traditions.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyshufa/",
+      "about": [
+        "NYShufa is a Student Interest Group (SIG) open to all who share a passion for Chinese calligraphy and Chinese brush painting. We are committed to enriching the mind and cultivating character through the appreciation and practice of traditional Chinese arts. We seek to nurture intellectual depth, instil a sense of moral purpose, and inspire students to draw wisdom from nature and the world around them. By fostering creativity and artistic expression, we aspire to cultivate a deeper sense of harmony between humanity and the world.",
+        "Join us in preserving the enduring beauty of Chinese calligraphy and carrying its rich artistic heritage into the future, one stroke at a time!"
+      ],
+      "exco": [
+        "President: Zhang Zhongyu",
+        "Vice President: Lu Yinghui",
+        "Head of Publicity: Cai Siqing"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "acoustic-movement",
+      "name": "Acoustic Movement",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/acoustic-movement/",
+      "photos": [
+        {
+          "src": "assets/acoustic-movement-20261122-1.webp",
+          "alt": "Acoustic Movement activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/acoustic-movement-20261122-2.webp",
+          "alt": "Acoustic Movement activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Learn guitar and music theory, with opportunities to perform.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyacousticmonsters/",
+      "about": [
+        "NYAM provides a space to anyone who is interested in, or enjoys playing the guitar. Keen to pick up a new hobby? Want to learn how to strum basic tunes? Simply need a space to jam with your friends? NYAM has your back! Whether you’re a complete beginner in music or want to further your guitar skills, NYAM provides opportunities for you to meet likeminded individuals and develop your interest.",
+        "From VIA opportunities at senior homes and active ageing centres, to performance experiences via internal college events, we welcome one and all to delve into the wonderful world of music.",
+        "Not ready for such large-scale performances yet? Not to worry! Keep a look out for our announcements and drop by our jamming sessions during NYReach! You can also sign up for our annual life skills workshops, or text our EXCO members to loan a guitar for your own practice. All you need is yourself and a passion for the guitar, and we’ve got the rest! 🤘🎸"
+      ],
+      "exco": [
+        "President: Sherlyn Lim Silin",
+        "Vice-President: Chloe Alexis Tan Luo Yi",
+        "Secretary: Chong Jae Ron"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "economics-society",
+      "name": "NY Economics Society",
+      "category": "stem-and-academic-exploration",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/economics-society/",
+      "photos": [
+        {
+          "src": "assets/economics-society-20261122-1.webp",
+          "alt": "NY Economics Society activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/economics-society-20261122-2.webp",
+          "alt": "NY Economics Society activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Explore economic ideas through discussions, debates and games.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyjceconomics/",
+      "about": [
+        "NY Economics Society is a Student Interest Group (SIG) dedicated to students passionate in the studies of economics.",
+        "NY Economics Society gives the opportunity for fellow economics-lovers to come together to discuss economic theories and current economic issues facing the world today, such as inflation, surging bond yields in some countries and how AI can transform economies.",
+        "In addition, our society is also responsible for publicising different economics enrichment programmes and activities planned by our school’s economics department, including learning journeys to places like the Sheng Soong HQ and the Monetary Authority of Singapore (MAS), and also talks by the Energy Market Authority (EMA). Members would have the opportunity to share what they learn and their reflections from these programmes to the wider school community.",
+        "In NYES, every member has the opportunity to undertake their own research projects to learn more about economic issues that they are passionate about and share with the school community, like our initiative, EconsPedia, in which members come in groups to research topics like the economic of sustainability and microeconomic observations like why shopping platforms give out huge 11.11 discounts."
+      ],
+      "exco": [
+        "President: Yu Nian-Tong Nicole",
+        "Vice-President: Ang Cun You",
+        "Secretary: Alden Tang Xuan Rui",
+        "Social Media Manager: Arumugam Jaishika"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nycrochers",
+      "name": "NYCrochers",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nycrochers/",
+      "photos": [],
+      "description": "",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "",
+      "about": [],
+      "exco": [
+        "President: Sim Jia En",
+        "VP: Tay Yeok Hian"
+      ],
+      "providedDetails": true,
+      "excoOnly": true
+    },
+    {
       "id": "green-alliance",
       "name": "Green Alliance",
       "category": "advocacy-and-community-service",
@@ -660,17 +842,6 @@ window.SIG_DATA = {
       "instagram": "https://www.instagram.com/nyartsig/"
     },
     {
-      "id": "nycrochers",
-      "name": "NYCrochers",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nycrochers/",
-      "photos": [],
-      "description": "Explore crochet projects, from coasters to amigurumi.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nycrochers/"
-    },
-    {
       "id": "chinese-debate",
       "name": "Chinese Debate",
       "category": "communication-and-media",
@@ -704,34 +875,12 @@ window.SIG_DATA = {
       "instagram": ""
     },
     {
-      "id": "ny-chess-club",
-      "name": "NY Chess Club",
-      "category": "games--strategy-and-puzzles",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/ny-chess-club/",
-      "photos": [],
-      "description": "Practise international chess, xiangqi and weiqi with fellow players.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "nycubers",
       "name": "NYCubers",
       "category": "games--strategy-and-puzzles",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/games--strategy-and-puzzles/nycubers/",
       "photos": [],
       "description": "Explore twisty puzzles, speedcubing and blindfolded solves.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nanyang-philosophy-and-psychology-club",
-      "name": "Nanyang Philosophy and Psychology Club",
-      "category": "humanities-and-social-sciences",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/nanyang-philosophy-and-psychology-club/",
-      "photos": [],
-      "description": "Explore the human mind and big questions through discussions and workshops.",
       "activities": [],
       "joinUrl": "",
       "instagram": ""
@@ -787,28 +936,6 @@ window.SIG_DATA = {
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
       "photos": [],
       "description": "Learn Hokkien and Cantonese and connect across generations.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nyshufa",
-      "name": "NYShuFa",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nyshufa/",
-      "photos": [],
-      "description": "Explore Chinese calligraphy, brush techniques and cultural traditions.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "acoustic-movement",
-      "name": "Acoustic Movement",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/acoustic-movement/",
-      "photos": [],
-      "description": "Learn guitar and music theory, with opportunities to perform.",
       "activities": [],
       "joinUrl": "",
       "instagram": ""
@@ -875,17 +1002,6 @@ window.SIG_DATA = {
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nyqy/",
       "photos": [],
       "description": "Explore Chinese opera and cross talk through performance.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "economics-society",
-      "name": "Economics Society",
-      "category": "stem-and-academic-exploration",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/economics-society/",
-      "photos": [],
-      "description": "Explore economic ideas through discussions, debates and games.",
       "activities": [],
       "joinUrl": "",
       "instagram": ""
