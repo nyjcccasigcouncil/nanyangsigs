@@ -251,7 +251,8 @@ window.SIG_DATA = {
         "NYHACAS members can look forward to activities like a mock MUN simulation and movie night sessions that strengthen bonds with their peers and engage in productive discourse surrounding relevant issues. Recently, NYHACAS has collaborated with various other SIGs to publish a school-wide publication and with NYTimes to pilot an initiative to improve knowledge of general affairs among students.",
         "Curious about what else we do? Follow our Insta: @nyjchacas"
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/hacas-humanities-current-affairs-society-20261128-logo.webp"
     },
     {
       "id": "ny-legal-lions",
@@ -357,7 +358,8 @@ window.SIG_DATA = {
         "Join us and see what’s next! Yokoso! 🎌",
         "nyjfire.carrd.com"
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/j-fire-20261128-logo.webp"
     },
     {
       "id": "korzy",
@@ -366,12 +368,12 @@ window.SIG_DATA = {
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/korzy/",
       "photos": [
         {
-          "src": "assets/korzy-20261116-1.webp",
+          "src": "assets/korzy-20261128-1.webp",
           "alt": "Korzy activity photo 1",
           "caption": ""
         },
         {
-          "src": "assets/korzy-20261116-2.webp",
+          "src": "assets/korzy-20261128-2.webp",
           "alt": "Korzy activity photo 2",
           "caption": ""
         }
@@ -393,7 +395,8 @@ window.SIG_DATA = {
         "Most importantly, we give dancers a real stage to shine. Beyond school showcases and campus events, Korzy actively takes on external performing opportunities outside of school, putting you in front of wider crowds and giving you real performance experience.",
         "Ready to step out of your comfort zone, make lifelong friends, and own the spotlight? Come dance with us and join Korzy today! Do check out our Instagram page @nyjckorzy to learn more about us!"
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/korzy-20261128-logo.webp"
     },
     {
       "id": "nanyang-strings-ensemble-nyse",
@@ -462,7 +465,8 @@ window.SIG_DATA = {
         "We also help in the organising and problem setting of certain competitions like the first-ever Singapore Precollegiate Integration Bee (SPIB), a national competition for pre-university integration enthusiasts, as well as NY’s GC workshop for secondary school students, where we prepare secondary schoolers for JC life by teaching them the ways of the complicated graphing calculator.",
         "We also have our own smaller initiatives like the weekly YIPPEE problems this year and of course have involvement helping students in the national mathematics competitions that the college participates in like the SMO."
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/mathematics-club-20261128-logo.webp"
     },
     {
       "id": "nanyang-competitive-programming-club-nycp",
@@ -570,7 +574,8 @@ window.SIG_DATA = {
         "Want to gain research experience? Beyond volunteering, we have our annual flagship publication, the MedHealth Journal! It is a fantastic opportunity to dive into a topic you are passionate about and collaborate with peers in your chosen faculty to write an entry for our journal.",
         "Of course, we also host interactive sessions that combine hands-on learning with direct access to the Biology and Medical fields. Highlights of 2026 include a First Aid workshop in collaboration with our school’s Red Cross Youth, a medical school admission talk involving NUS and NTU students and a NKF awareness booth!"
       ],
-      "providedDetails": true
+      "providedDetails": true,
+      "logo": "assets/ny-bionat-20261128-logo.webp"
     },
     {
       "id": "nyglaze",
@@ -774,17 +779,169 @@ window.SIG_DATA = {
       "category": "arts--crafts-and-creative-expression",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nycrochers/",
       "photos": [],
-      "description": "",
+      "description": "At NYCrochers, we find joy in making creations with nothing more than a simple ball of yarn and a crochet hook. Founded in 2022, we believe that crochet brings people together through the means of crafting and creation. Our numerous creations range from coasters and cup sleeves to adorable Amigurumis, aka plushies! Not only that, but crochet is an easy and fun skill to pick up. With just some yarn and a hook, you will be amazed by how simple and the numerous creations you can make! NYCrochers accepts anyone, be it a beginner or an expert with years of experience. We believe that passion is all it takes to get started! So join us and discover your newfound hobby!",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nycrochers/",
+      "about": [
+        "At NYCrochers, we find joy in making creations with nothing more than a simple ball of yarn and a crochet hook. Founded in 2022, we believe that crochet brings people together through the means of crafting and creation. Our numerous creations range from coasters and cup sleeves to adorable Amigurumis, aka plushies! Not only that, but crochet is an easy and fun skill to pick up. With just some yarn and a hook, you will be amazed by how simple and the numerous creations you can make! NYCrochers accepts anyone, be it a beginner or an expert with years of experience. We believe that passion is all it takes to get started! So join us and discover your newfound hobby!"
+      ],
+      "exco": [
+        "President: Sim Jia En",
+        "VP: Tay Yeok Hian",
+        "Publicity: Cheng Xin Yi",
+        "Logistics: Ang Megan"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nanyang-times",
+      "name": "The Nanyang Times",
+      "category": "communication-and-media",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/nanyang-times/",
+      "photos": [
+        {
+          "src": "assets/nanyang-times-20261128-1.webp",
+          "alt": "The Nanyang Times activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nanyang-times-20261128-2.webp",
+          "alt": "The Nanyang Times activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "The Nanyang Times, or as members affectionately call it Muggership, is NY’s local outlet for all types of news–international, domestic or school-wide. A newly-formed SIG, we aim to develop members into articulate speakers and judicious thinkers as they learn more about journalism and its related ethics.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nytimes.muggership/",
+      "about": [
+        "NYTimes? Yes, you heard that right. No, we’re not the New York Times.",
+        "The Nanyang Times, or as members affectionately call it Muggership, is NY’s local outlet for all types of news–international, domestic or school-wide. A newly-formed SIG, we aim to develop members into articulate speakers and judicious thinkers as they learn more about journalism and its related ethics.",
+        "Members can expect to be able to provide personal takes and craft their own articles on topics of their choice in our SIG. We have also collaborated with various other SIGs to manage a school-wide publication while co-helming a new initiative to Spread the NYews among students, assisting them to widen their awareness of GP topics.",
+        "Want to find out more about our SIG? Check out our IG page: @nytimes.muggership",
+        "And here’s access to articles from our very own members: https://www.nyjctimes.com"
+      ],
+      "exco": [
+        "President: Saharsh",
+        "Vice President (Human Resources): Megan Lim Si Han",
+        "Vice President (Editing): Yap Hooi Qing",
+        "Vice President (Publicity): Gabriel Phang Hai Jie"
+      ],
+      "providedDetails": true,
+      "logo": "assets/nanyang-times-20261128-logo.webp"
+    },
+    {
+      "id": "ny-financial-literacy",
+      "name": "Nanyang Financial Society (NYFS)",
+      "category": "humanities-and-social-sciences",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-financial-literacy/",
+      "photos": [],
+      "description": "Nanyang Financial Society (NYFS) is a community of students interested in exploring the world of finance and developing a deeper understanding of financial literacy. We aim to cultivate an appreciation for financial knowledge while equipping NYJCians with the skills to make informed financial decisions in their daily lives.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyfinancialsociety/",
+      "about": [
+        "Nanyang Financial Society (NYFS) is a community of students interested in exploring the world of finance and developing a deeper understanding of financial literacy. We aim to cultivate an appreciation for financial knowledge while equipping NYJCians with the skills to make informed financial decisions in their daily lives.",
+        "One of our key initiatives is Money Smart Kids, a financial literacy programme organised by our members for children at CDAC. Through interactive games and workshops, we introduce participants to fundamental financial concepts such as budgeting and distinguishing between needs and wants. For instance, participants are given a limited amount of mock money to purchase items from different stalls, encouraging them to prioritise essential purchases and make responsible spending decisions.",
+        "Moving forward, NYFS hopes to broaden members' exposure to the financial world while creating more opportunities to promote financial literacy and engage with the wider community."
+      ],
+      "exco": [
+        "President: Ng Guan Wei",
+        "Vice President: Cheng Xin Yi",
+        "Secretary: Chong Yi Xuan Lorna",
+        "Research Director: Lu Yinghui",
+        "Social Media Manager: Che Pinran"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "asean-literacy-club-nyasean",
+      "name": "NYASEAN",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/asean-literacy-club-nyasean/",
+      "photos": [],
+      "description": "Curious about the world's most dynamic regions? Come join us at NYASEAN, a SIG dedicated to exploring the cultures, economies, and societies of Southeast Asia! From cultural showcases to food trails, you can expand your global mindset and pick up new perspectives while you're at it. We aim to build a welcoming space which brings students together through a shared interest in the ASEAN region. Whether you're a Southeast Asian native or just want to try something completely new, there’s a place for you here!",
       "activities": [],
       "joinUrl": "",
       "instagram": "",
-      "about": [],
+      "about": [
+        "Curious about the world's most dynamic regions? Come join us at NYASEAN, a SIG dedicated to exploring the cultures, economies, and societies of Southeast Asia! From cultural showcases to food trails, you can expand your global mindset and pick up new perspectives while you're at it. We aim to build a welcoming space which brings students together through a shared interest in the ASEAN region. Whether you're a Southeast Asian native or just want to try something completely new, there’s a place for you here!"
+      ],
       "exco": [
-        "President: Sim Jia En",
-        "VP: Tay Yeok Hian"
+        "President: Yang Ruoning",
+        "Vice president of operations: Avrielle Tan Yu Xi",
+        "Vice president of publicity: Nguyen Quang Huy (Tom)"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nydialects",
+      "name": "NYDialects",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
+      "photos": [
+        {
+          "src": "assets/nydialects-20261128-1.webp",
+          "alt": "NYDialects activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nydialects-20261128-2.webp",
+          "alt": "NYDialects activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "NYDialects is a Student Interest Group (SIG) in Nanyang Junior College dedicated to preserving and promoting the rich diversity of Chinese dialects and their cultural heritage. Through engaging activities, interactive games and cultural experiences, we hope to spark students' interest in dialects such as Hokkien and Cantonese. Beyond learning common dialect phrases and expressions, members also get to explore the traditions, stories and values passed down through generations. Whether you are familiar with dialects or completely new to them, NYDialects provides a welcoming environment for everyone to discover, learn and appreciate the beauty of our linguistic heritage. Join us as we keep our dialects alive and bridge generations through language and culture!",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nydialects/",
+      "about": [
+        "NYDialects is a Student Interest Group (SIG) in Nanyang Junior College dedicated to preserving and promoting the rich diversity of Chinese dialects and their cultural heritage. Through engaging activities, interactive games and cultural experiences, we hope to spark students' interest in dialects such as Hokkien and Cantonese. Beyond learning common dialect phrases and expressions, members also get to explore the traditions, stories and values passed down through generations. Whether you are familiar with dialects or completely new to them, NYDialects provides a welcoming environment for everyone to discover, learn and appreciate the beauty of our linguistic heritage. Join us as we keep our dialects alive and bridge generations through language and culture!"
+      ],
+      "exco": [
+        "President: Zhang Xuan He",
+        "Vice President (Admin): Chin Yanxu",
+        "Vice President (Publicity): Ho Jun Kai",
+        "Head of Outreach (unofficial): Luke Ee Jun En"
       ],
       "providedDetails": true,
-      "excoOnly": true
+      "logo": "assets/nydialects-20261128-logo.webp"
+    },
+    {
+      "id": "nanyang-musicians-club",
+      "name": "Nanyang Musicians Club",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-musicians-club/",
+      "photos": [
+        {
+          "src": "assets/nanyang-musicians-club-20261128-1.webp",
+          "alt": "Nanyang Musicians Club activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nanyang-musicians-club-20261128-2.webp",
+          "alt": "Nanyang Musicians Club activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "The Nanyang Musicians Club, known affectionately as NYMC, was founded in 2012 and is sustained by avid music lovers in the college. Members come together to form performing bands, gaining greater insights into the dynamics and inner workings of a live band.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nymusiciansclub/",
+      "about": [
+        "The Nanyang Musicians Club, known affectionately as NYMC, was founded in 2012 and is sustained by avid music lovers in the college. Members come together to form performing bands, gaining greater insights into the dynamics and inner workings of a live band.",
+        "NYMC bands have opportunities to perform regularly in school events such as Teacher’s Day, National Day, Chinese New Year and the annual Open House, and are always well received by the audience.  Beyond school performances, NYMC also takes part in many ad-hoc performances outside of school.",
+        "From hiphop to retro tunes, NYMC members are given full creative control to what songs and genre they want to play. Join NYMC to discover your love for performing in a live band!"
+      ],
+      "exco": [
+        "President: Vennon Tay",
+        "VP: Jocelyn Divina Lieman",
+        "Music Director 1: Zhang Xuan He",
+        "Music Director 2: Jiatong",
+        "Secretary: Xinyi"
+      ],
+      "providedDetails": true
     },
     {
       "id": "green-alliance",
@@ -853,17 +1010,6 @@ window.SIG_DATA = {
       "instagram": ""
     },
     {
-      "id": "nanyang-times",
-      "name": "Nanyang Times",
-      "category": "communication-and-media",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/nanyang-times/",
-      "photos": [],
-      "description": "Write about campus life and global issues through student journalism.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "ministry-of-recreational-games",
       "name": "Ministry of Recreational Games",
       "category": "games--strategy-and-puzzles",
@@ -886,34 +1032,12 @@ window.SIG_DATA = {
       "instagram": ""
     },
     {
-      "id": "ny-financial-literacy",
-      "name": "NY Financial Literacy",
-      "category": "humanities-and-social-sciences",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-financial-literacy/",
-      "photos": [],
-      "description": "Explore budgeting, investing and education funding.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "ny-rocks",
       "name": "NY Rocks",
       "category": "humanities-and-social-sciences",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-rocks/",
       "photos": [],
       "description": "Explore geography through field studies and discussions about real-world issues.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "asean-literacy-club-nyasean",
-      "name": "ASEAN Literacy Club (NYASEAN)",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/asean-literacy-club-nyasean/",
-      "photos": [],
-      "description": "Discover Southeast Asian traditions through cultural activities and films.",
       "activities": [],
       "joinUrl": "",
       "instagram": ""
@@ -930,34 +1054,12 @@ window.SIG_DATA = {
       "instagram": ""
     },
     {
-      "id": "nydialects",
-      "name": "NYDialects",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
-      "photos": [],
-      "description": "Learn Hokkien and Cantonese and connect across generations.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
       "id": "nanyang-harmonix-nyhx",
       "name": "Nanyang Harmonix (NYHX)",
       "category": "music-and-performing-arts",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-harmonix-nyhx/",
       "photos": [],
       "description": "Sing and perform with a community of music enthusiasts.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": ""
-    },
-    {
-      "id": "nanyang-musicians-club",
-      "name": "Nanyang Musicians Club",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-musicians-club/",
-      "photos": [],
-      "description": "Make live music in bands and perform at school events.",
       "activities": [],
       "joinUrl": "",
       "instagram": ""
