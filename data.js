@@ -151,78 +151,6 @@ window.SIG_DATA = {
       "logo": "assets/nysingularity-logo.webp"
     },
     {
-      "id": "ny-writers-circle",
-      "name": "Writers’ Circle",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/ny-writers-circle/",
-      "photos": [
-        {
-          "src": "assets/ny-writers-circle-20261116-1.webp",
-          "alt": "Writers’ Circle activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/ny-writers-circle-20261116-2.webp",
-          "alt": "Writers’ Circle activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Develop your writing through collaboration, sharing and competitions.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/writerscircleny/",
-      "exco": [
-        "President: Joni Lai Xin Yu",
-        "Vice President: Lim Jia Lerk Ryan",
-        "Editor: Gerald Aurelius Panenthe",
-        "Creative Advisor: Tan Hui Shuen Natalie"
-      ],
-      "about": [
-        "Dear Nanyang students, ✍️",
-        "Do you believe the saying 🤔",
-        "That “words create worlds”? 🌏",
-        "Well, we certainly do! We are NY Writers’ Circle, and if there is anyone that appreciates the power of words, it is certainly us!",
-        "Writers' Circle is composed of a group of passionate writers who come from various forms of the medium. Whether it's trying to capture the fantastical whims of a fictional story, beautifully playing around with phonetics in poetry, or strictly trying to improve tackling academic essay writing -- all the voices of each participating NYJCian unite to form a cacophony of literary arts.",
-        "We hold sessions to explore what it means to be a writer, from storytelling in DND sessions, exploring scriptwriting, and more! We also involve ourselves in NYresearch day and collaborate with external organisations such as Toa Payoh Community Centre and Braddell Heights Community’s newsletter to promote a love for writing in our community 🩵",
-        "Beyond this, we hold termly school-wide writing competitions for NYJCians to embrace their creative side through various forms of writing: Poems, prose, journalistic pieces, general paper essays, fairytales, comics, etc!",
-        "We aim to foster NYJCian’s comfort in creativity, encouraging them to engage beyond their studies. Whether you love reading, writing, a specific fandom in media, being creative, or just want to explore something new, Writers’ Circle is the SIG for you!",
-        "Eat, Rest, Play (ERP) is an annual community event series in Singapore organised by the Toa Payoh East Constituency Community Club (CC) and Youth Network (TPEYN). Every year, NYWriters Circle aims to work with ERP to stimulate the creativity of young children."
-      ],
-      "providedDetails": true
-    },
-    {
-      "id": "nythreads",
-      "name": "NYThreads",
-      "category": "arts--crafts-and-creative-expression",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nythreads/",
-      "photos": [
-        {
-          "src": "assets/nythreads-20261116-1.webp",
-          "alt": "NYThreads activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/nythreads-20261116-2.webp",
-          "alt": "NYThreads activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Make bracelets and embroidery while learning thread crafts at your own pace.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nyjcthreads/",
-      "exco": [
-        "President : Lily Eaindra Oo",
-        "Vice President : Gabrielle Yap (Ye Kailin)",
-        "Vice President (Admin) : Ang Kai Li, Kylie"
-      ],
-      "about": [
-        "Looking for a chance to unwind and connect through creativity?",
-        "Come join us at NYThreads, a chill yet fun SIG where we use something as simple as a thread to create beautiful crafts! From making friendship bracelets and keychains to embroidery, you can explore your creativity and pick up new skills while you’re at it. We aim to build a welcoming environment which brings people together through a shared love for creativity, so whether you’re a crafting pro or just want to try something new, there’s a place for you here!"
-      ],
-      "providedDetails": true
-    },
-    {
       "id": "hacas-humanities-current-affairs-society",
       "name": "HACAS (History & Current Affairs Society)",
       "category": "humanities-and-social-sciences",
@@ -253,76 +181,6 @@ window.SIG_DATA = {
       ],
       "providedDetails": true,
       "logo": "assets/hacas-humanities-current-affairs-society-20261128-logo.webp"
-    },
-    {
-      "id": "ny-legal-lions",
-      "name": "NY Legal Lions",
-      "category": "humanities-and-social-sciences",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-legal-lions/",
-      "photos": [
-        {
-          "src": "assets/ny-legal-lions-20261116-1.webp",
-          "alt": "NY Legal Lions activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/ny-legal-lions-20261116-2.webp",
-          "alt": "NY Legal Lions activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Examine legal issues and develop your understanding of law.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nylegallions/",
-      "exco": [
-        "King Ng (HUANG YAOZHENG) - President",
-        "Rhodyn Tan Kuan Yi - Vice President (Events)",
-        "Le'Ann Low - Vice President (Publicity)"
-      ],
-      "about": [
-        "NY Legal Lions is a society dedicated to fostering an interest in law, justice and the legal profession among students.",
-        "Through educational initiatives, collaborative programmes and experiential learning opportunities, we aim to make the study of law accessible and engaging. Members are given opportunities to explore different areas of law, develop critical thinking and analytical skills, and gain a deeper understanding of the legal system.",
-        "Beyond theoretical learning, we seek to bridge the gap between the classroom and the legal profession through engagements with legal practitioners and university law students, alongside activities such as moot courts, case discussions and legal outreach programmes.",
-        "At its heart, we believe that an understanding of law extends beyond aspiring lawyers. It empowers individuals to think critically, appreciate diverse perspectives and better understand the society they live in.",
-        "Whether you aspire to pursue law or are simply curious about the legal world, NY Legal Lions welcomes you!"
-      ],
-      "providedDetails": true
-    },
-    {
-      "id": "hear-me-out",
-      "name": "Hear Me Out",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/hear-me-out/",
-      "photos": [
-        {
-          "src": "assets/hear-me-out-20261116-1.webp",
-          "alt": "Hear Me Out activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/hear-me-out-20261116-2.webp",
-          "alt": "Hear Me Out activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Learn Singapore Sign Language and better understand the deaf community.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nyjc_hearmeout/",
-      "exco": [
-        "President: Puli Smrithi",
-        "Vice President: Ember Ng",
-        "Head of Publicity: Phan Anh Thi"
-      ],
-      "about": [
-        "Hear Me Out (HMO) is a Student Interest Group (SIG) that introduces students to Singapore Sign Language (SgSL) while building empathy and awareness for the d/Deaf and hard-of-hearing community.",
-        "Our fortnightly sessions are fun, interactive, and beginner-friendly. Members learn sign language basics such as letters of the alphabet, common phrases, and visual gesture communication, all reinforced through games and hands-on activities. More than just learning a new skill, HMO is about meaningful communication, inclusivity, and understanding perspectives beyond our own.",
-        "HMO offers volunteering opportunities that support the local d/Deaf communities through collaboration with sign language clubs from other polytechnics, universities, and nonprofit organisation. One of such collaborations was with Nanyang Technological University's Regular Service Project: Deaf Community “Learn, Observe, Laugh” event, where members volunteered as game masters and interacted with Deaf youths across different age groups. By signing game instructions and communicating directly with participants, members gain real-life SgSL exposure and a deeper understanding of the d/Deaf community.",
-        "At HMO, we also aim to raise awareness and interest specifically with Singapore’s very own sign language - SgSL. Our topical sign language lessons usually inculcate local elements such as unique signs for Singapore’s cuisine, National Day, Teachers’ Day, and other festive occasions. To make learning SgSL even more exciting and engaging, HMO members also learn through song signing. One occasion for HMO to spread awareness about SgSL and Singapore’s d/Deaf community was our performance in NYJC’s 2026 National Day Celebration. This inaugural mass song signing project where HMO members performed the all-time favourite NDP medley and invited NYJCians and staff to sign along was warmly received, highlighting that music isn’t just something we hear, but also something we can see, feel and share the joy of. This, ultimately and hopefully, can help to raise awareness about SgSL and the communities using it.",
-        "At HearMeOut, every voice matters — whether expressed through voices, hands, or hearts."
-      ],
-      "providedDetails": true
     },
     {
       "id": "j-fire",
@@ -399,40 +257,6 @@ window.SIG_DATA = {
       "logo": "assets/korzy-20261128-logo.webp"
     },
     {
-      "id": "nanyang-strings-ensemble-nyse",
-      "name": "Nanyang Strings Ensemble (NYSE)",
-      "category": "music-and-performing-arts",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-strings-ensemble-nyse/",
-      "photos": [
-        {
-          "src": "assets/nanyang-strings-ensemble-nyse-20261116-1.webp",
-          "alt": "Nanyang Strings Ensemble (NYSE) activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/nanyang-strings-ensemble-nyse-20261116-2.webp",
-          "alt": "Nanyang Strings Ensemble (NYSE) activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Grow your string-playing skills and share music with others.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nyjcstrings/",
-      "exco": [
-        "President: Lim Zhi Yue",
-        "VP: Chua Junru Alexis",
-        "Student Conductor: Ng Chin En Cayden",
-        "Secretary: Siyeon Baek"
-      ],
-      "about": [
-        "Nanyang String Ensemble (NYSE) founded in 2015, is a Student Interest Group comprising students who have an interest in ensemble performance and playing string instruments, namely the violin, viola, cello, and double bass. We aim to share our love and enthusiasm for music and  string instruments with the wider community.",
-        "NYSE provides members with opportunities to develop their musicianship, perform with commitment and excellence, and explore a wide range of repertoire, including classical works and movie soundtracks. Members regularly perform at college events such as Open House, as well as in Community Involvement Programme (CIP) projects. We regularly organise and participate in VIA projects, such as visits to elderly homes and homes for the intellectually disabled, and in larger scale performances for National Day, expressing our love for music to many.",
-        "Our sessions are open to all members and students, regardless of musical background and skill level. We also offer to teach the violin and cello to beginners during our session to encourage anyone interested to pick up a new instrument and adjust our performance opportunities to best suit their needs."
-      ],
-      "providedDetails": true
-    },
-    {
       "id": "mathematics-club",
       "name": "Mathematics Club",
       "category": "stem-and-academic-exploration",
@@ -467,6 +291,288 @@ window.SIG_DATA = {
       ],
       "providedDetails": true,
       "logo": "assets/mathematics-club-20261128-logo.webp"
+    },
+    {
+      "id": "ny-bionat",
+      "name": "NY BioNat",
+      "category": "stem-and-academic-exploration",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/ny-bionat/",
+      "photos": [
+        {
+          "src": "assets/ny-bionat-20261116-1.webp",
+          "alt": "NY BioNat activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/ny-bionat-20261116-2.webp",
+          "alt": "NY BioNat activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Explore biology through experiments, research and healthcare exposure.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/ny.bionat/",
+      "exco": [
+        "President: Han Shiyi",
+        "Vice President of Events: Rachelle Goh Jing Xuan",
+        "Vice President of Admins: Joshi Saanvi Sandeep",
+        "Chief Editor: Ho Zi Xuan Laura"
+      ],
+      "about": [
+        "NYBionat is a student-initiated group (SIG) for anyone passionate about Biology, Medicine and community service.",
+        "As a member, you will have the opportunity to participate in meaningful healthcare outreach – be it building connections with elderly patients through bedside conversations at St Luke’s Hospital, or hosting lively games at NTUC Health Geylang East nursing home. We are also constantly seeking new partnerships, so look out for more volunteering opportunities coming your way ✨👀",
+        "Want to gain research experience? Beyond volunteering, we have our annual flagship publication, the MedHealth Journal! It is a fantastic opportunity to dive into a topic you are passionate about and collaborate with peers in your chosen faculty to write an entry for our journal.",
+        "Of course, we also host interactive sessions that combine hands-on learning with direct access to the Biology and Medical fields. Highlights of 2026 include a First Aid workshop in collaboration with our school’s Red Cross Youth, a medical school admission talk involving NUS and NTU students and a NKF awareness booth!"
+      ],
+      "providedDetails": true,
+      "logo": "assets/ny-bionat-20261128-logo.webp"
+    },
+    {
+      "id": "nanyang-times",
+      "name": "The Nanyang Times",
+      "category": "communication-and-media",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/nanyang-times/",
+      "photos": [
+        {
+          "src": "assets/nanyang-times-20261128-1.webp",
+          "alt": "The Nanyang Times activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nanyang-times-20261128-2.webp",
+          "alt": "The Nanyang Times activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Explore journalism and share your perspectives on school, local and international news.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nytimes.muggership/",
+      "about": [
+        "NYTimes? Yes, you heard that right. No, we’re not the New York Times.",
+        "The Nanyang Times, or as members affectionately call it Muggership, is NY’s local outlet for all types of news–international, domestic or school-wide. A newly-formed SIG, we aim to develop members into articulate speakers and judicious thinkers as they learn more about journalism and its related ethics.",
+        "Members can expect to be able to provide personal takes and craft their own articles on topics of their choice in our SIG. We have also collaborated with various other SIGs to manage a school-wide publication while co-helming a new initiative to Spread the NYews among students, assisting them to widen their awareness of GP topics.",
+        "Want to find out more about our SIG? Check out our IG page: @nytimes.muggership",
+        "And here’s access to articles from our very own members: https://www.nyjctimes.com"
+      ],
+      "exco": [
+        "President: Saharsh",
+        "Vice President (Human Resources): Megan Lim Si Han",
+        "Vice President (Editing): Yap Hooi Qing",
+        "Vice President (Publicity): Gabriel Phang Hai Jie"
+      ],
+      "providedDetails": true,
+      "logo": "assets/nanyang-times-20261128-logo.webp"
+    },
+    {
+      "id": "nydialects",
+      "name": "NYDialects",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
+      "photos": [
+        {
+          "src": "assets/nydialects-20261128-1.webp",
+          "alt": "NYDialects activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nydialects-20261128-2.webp",
+          "alt": "NYDialects activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Discover Chinese dialects and their cultural heritage through games and activities.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nydialects/",
+      "about": [
+        "NYDialects is a Student Interest Group (SIG) in Nanyang Junior College dedicated to preserving and promoting the rich diversity of Chinese dialects and their cultural heritage. Through engaging activities, interactive games and cultural experiences, we hope to spark students' interest in dialects such as Hokkien and Cantonese. Beyond learning common dialect phrases and expressions, members also get to explore the traditions, stories and values passed down through generations. Whether you are familiar with dialects or completely new to them, NYDialects provides a welcoming environment for everyone to discover, learn and appreciate the beauty of our linguistic heritage. Join us as we keep our dialects alive and bridge generations through language and culture!"
+      ],
+      "exco": [
+        "President: Zhang Xuan He",
+        "Vice President (Admin): Chin Yanxu",
+        "Vice President (Publicity): Ho Jun Kai",
+        "Head of Outreach (unofficial): Luke Ee Jun En"
+      ],
+      "providedDetails": true,
+      "logo": "assets/nydialects-20261128-logo.webp"
+    },
+    {
+      "id": "ny-writers-circle",
+      "name": "Writers’ Circle",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/ny-writers-circle/",
+      "photos": [
+        {
+          "src": "assets/ny-writers-circle-20261116-1.webp",
+          "alt": "Writers’ Circle activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/ny-writers-circle-20261116-2.webp",
+          "alt": "Writers’ Circle activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Develop your writing through collaboration, sharing and competitions.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/writerscircleny/",
+      "exco": [
+        "President: Joni Lai Xin Yu",
+        "Vice President: Lim Jia Lerk Ryan",
+        "Editor: Gerald Aurelius Panenthe",
+        "Creative Advisor: Tan Hui Shuen Natalie"
+      ],
+      "about": [
+        "Dear Nanyang students, ✍️",
+        "Do you believe the saying 🤔",
+        "That “words create worlds”? 🌏",
+        "Well, we certainly do! We are NY Writers’ Circle, and if there is anyone that appreciates the power of words, it is certainly us!",
+        "Writers' Circle is composed of a group of passionate writers who come from various forms of the medium. Whether it's trying to capture the fantastical whims of a fictional story, beautifully playing around with phonetics in poetry, or strictly trying to improve tackling academic essay writing -- all the voices of each participating NYJCian unite to form a cacophony of literary arts.",
+        "We hold sessions to explore what it means to be a writer, from storytelling in DND sessions, exploring scriptwriting, and more! We also involve ourselves in NYresearch day and collaborate with external organisations such as Toa Payoh Community Centre and Braddell Heights Community’s newsletter to promote a love for writing in our community 🩵",
+        "Beyond this, we hold termly school-wide writing competitions for NYJCians to embrace their creative side through various forms of writing: Poems, prose, journalistic pieces, general paper essays, fairytales, comics, etc!",
+        "We aim to foster NYJCian’s comfort in creativity, encouraging them to engage beyond their studies. Whether you love reading, writing, a specific fandom in media, being creative, or just want to explore something new, Writers’ Circle is the SIG for you!",
+        "Eat, Rest, Play (ERP) is an annual community event series in Singapore organised by the Toa Payoh East Constituency Community Club (CC) and Youth Network (TPEYN). Every year, NYWriters Circle aims to work with ERP to stimulate the creativity of young children."
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nythreads",
+      "name": "NYThreads",
+      "category": "arts--crafts-and-creative-expression",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nythreads/",
+      "photos": [
+        {
+          "src": "assets/nythreads-20261116-1.webp",
+          "alt": "NYThreads activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nythreads-20261116-2.webp",
+          "alt": "NYThreads activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Make bracelets and embroidery while learning thread crafts at your own pace.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyjcthreads/",
+      "exco": [
+        "President : Lily Eaindra Oo",
+        "Vice President : Gabrielle Yap (Ye Kailin)",
+        "Vice President (Admin) : Ang Kai Li, Kylie"
+      ],
+      "about": [
+        "Looking for a chance to unwind and connect through creativity?",
+        "Come join us at NYThreads, a chill yet fun SIG where we use something as simple as a thread to create beautiful crafts! From making friendship bracelets and keychains to embroidery, you can explore your creativity and pick up new skills while you’re at it. We aim to build a welcoming environment which brings people together through a shared love for creativity, so whether you’re a crafting pro or just want to try something new, there’s a place for you here!"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "ny-legal-lions",
+      "name": "NY Legal Lions",
+      "category": "humanities-and-social-sciences",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-legal-lions/",
+      "photos": [
+        {
+          "src": "assets/ny-legal-lions-20261116-1.webp",
+          "alt": "NY Legal Lions activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/ny-legal-lions-20261116-2.webp",
+          "alt": "NY Legal Lions activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Examine legal issues and develop your understanding of law.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nylegallions/",
+      "exco": [
+        "King Ng (HUANG YAOZHENG) - President",
+        "Rhodyn Tan Kuan Yi - Vice President (Events)",
+        "Le'Ann Low - Vice President (Publicity)"
+      ],
+      "about": [
+        "NY Legal Lions is a society dedicated to fostering an interest in law, justice and the legal profession among students.",
+        "Through educational initiatives, collaborative programmes and experiential learning opportunities, we aim to make the study of law accessible and engaging. Members are given opportunities to explore different areas of law, develop critical thinking and analytical skills, and gain a deeper understanding of the legal system.",
+        "Beyond theoretical learning, we seek to bridge the gap between the classroom and the legal profession through engagements with legal practitioners and university law students, alongside activities such as moot courts, case discussions and legal outreach programmes.",
+        "At its heart, we believe that an understanding of law extends beyond aspiring lawyers. It empowers individuals to think critically, appreciate diverse perspectives and better understand the society they live in.",
+        "Whether you aspire to pursue law or are simply curious about the legal world, NY Legal Lions welcomes you!"
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "hear-me-out",
+      "name": "Hear Me Out",
+      "category": "languages--cultural-and-heritage",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/hear-me-out/",
+      "photos": [
+        {
+          "src": "assets/hear-me-out-20261116-1.webp",
+          "alt": "Hear Me Out activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/hear-me-out-20261116-2.webp",
+          "alt": "Hear Me Out activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Learn Singapore Sign Language and better understand the deaf community.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyjc_hearmeout/",
+      "exco": [
+        "President: Puli Smrithi",
+        "Vice President: Ember Ng",
+        "Head of Publicity: Phan Anh Thi"
+      ],
+      "about": [
+        "Hear Me Out (HMO) is a Student Interest Group (SIG) that introduces students to Singapore Sign Language (SgSL) while building empathy and awareness for the d/Deaf and hard-of-hearing community.",
+        "Our fortnightly sessions are fun, interactive, and beginner-friendly. Members learn sign language basics such as letters of the alphabet, common phrases, and visual gesture communication, all reinforced through games and hands-on activities. More than just learning a new skill, HMO is about meaningful communication, inclusivity, and understanding perspectives beyond our own.",
+        "HMO offers volunteering opportunities that support the local d/Deaf communities through collaboration with sign language clubs from other polytechnics, universities, and nonprofit organisation. One of such collaborations was with Nanyang Technological University's Regular Service Project: Deaf Community “Learn, Observe, Laugh” event, where members volunteered as game masters and interacted with Deaf youths across different age groups. By signing game instructions and communicating directly with participants, members gain real-life SgSL exposure and a deeper understanding of the d/Deaf community.",
+        "At HMO, we also aim to raise awareness and interest specifically with Singapore’s very own sign language - SgSL. Our topical sign language lessons usually inculcate local elements such as unique signs for Singapore’s cuisine, National Day, Teachers’ Day, and other festive occasions. To make learning SgSL even more exciting and engaging, HMO members also learn through song signing. One occasion for HMO to spread awareness about SgSL and Singapore’s d/Deaf community was our performance in NYJC’s 2026 National Day Celebration. This inaugural mass song signing project where HMO members performed the all-time favourite NDP medley and invited NYJCians and staff to sign along was warmly received, highlighting that music isn’t just something we hear, but also something we can see, feel and share the joy of. This, ultimately and hopefully, can help to raise awareness about SgSL and the communities using it.",
+        "At HearMeOut, every voice matters — whether expressed through voices, hands, or hearts."
+      ],
+      "providedDetails": true
+    },
+    {
+      "id": "nanyang-strings-ensemble-nyse",
+      "name": "Nanyang Strings Ensemble (NYSE)",
+      "category": "music-and-performing-arts",
+      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/music-and-performing-arts/nanyang-strings-ensemble-nyse/",
+      "photos": [
+        {
+          "src": "assets/nanyang-strings-ensemble-nyse-20261116-1.webp",
+          "alt": "Nanyang Strings Ensemble (NYSE) activity photo 1",
+          "caption": ""
+        },
+        {
+          "src": "assets/nanyang-strings-ensemble-nyse-20261116-2.webp",
+          "alt": "Nanyang Strings Ensemble (NYSE) activity photo 2",
+          "caption": ""
+        }
+      ],
+      "description": "Grow your string-playing skills and share music with others.",
+      "activities": [],
+      "joinUrl": "",
+      "instagram": "https://www.instagram.com/nyjcstrings/",
+      "exco": [
+        "President: Lim Zhi Yue",
+        "VP: Chua Junru Alexis",
+        "Student Conductor: Ng Chin En Cayden",
+        "Secretary: Siyeon Baek"
+      ],
+      "about": [
+        "Nanyang String Ensemble (NYSE) founded in 2015, is a Student Interest Group comprising students who have an interest in ensemble performance and playing string instruments, namely the violin, viola, cello, and double bass. We aim to share our love and enthusiasm for music and  string instruments with the wider community.",
+        "NYSE provides members with opportunities to develop their musicianship, perform with commitment and excellence, and explore a wide range of repertoire, including classical works and movie soundtracks. Members regularly perform at college events such as Open House, as well as in Community Involvement Programme (CIP) projects. We regularly organise and participate in VIA projects, such as visits to elderly homes and homes for the intellectually disabled, and in larger scale performances for National Day, expressing our love for music to many.",
+        "Our sessions are open to all members and students, regardless of musical background and skill level. We also offer to teach the violin and cello to beginners during our session to encourage anyone interested to pick up a new instrument and adjust our performance opportunities to best suit their needs."
+      ],
+      "providedDetails": true
     },
     {
       "id": "nanyang-competitive-programming-club-nycp",
@@ -540,42 +646,6 @@ window.SIG_DATA = {
         "With minimal outside commitment and plenty of room for curiosity, NYAlchemy is the perfect place to discover the chemistry around you. Follow us to join the fun!"
       ],
       "providedDetails": true
-    },
-    {
-      "id": "ny-bionat",
-      "name": "NY BioNat",
-      "category": "stem-and-academic-exploration",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/stem-and-academic-exploration/ny-bionat/",
-      "photos": [
-        {
-          "src": "assets/ny-bionat-20261116-1.webp",
-          "alt": "NY BioNat activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/ny-bionat-20261116-2.webp",
-          "alt": "NY BioNat activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Explore biology through experiments, research and healthcare exposure.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/ny.bionat/",
-      "exco": [
-        "President: Han Shiyi",
-        "Vice President of Events: Rachelle Goh Jing Xuan",
-        "Vice President of Admins: Joshi Saanvi Sandeep",
-        "Chief Editor: Ho Zi Xuan Laura"
-      ],
-      "about": [
-        "NYBionat is a student-initiated group (SIG) for anyone passionate about Biology, Medicine and community service.",
-        "As a member, you will have the opportunity to participate in meaningful healthcare outreach – be it building connections with elderly patients through bedside conversations at St Luke’s Hospital, or hosting lively games at NTUC Health Geylang East nursing home. We are also constantly seeking new partnerships, so look out for more volunteering opportunities coming your way ✨👀",
-        "Want to gain research experience? Beyond volunteering, we have our annual flagship publication, the MedHealth Journal! It is a fantastic opportunity to dive into a topic you are passionate about and collaborate with peers in your chosen faculty to write an entry for our journal.",
-        "Of course, we also host interactive sessions that combine hands-on learning with direct access to the Biology and Medical fields. Highlights of 2026 include a First Aid workshop in collaboration with our school’s Red Cross Youth, a medical school admission talk involving NUS and NTU students and a NKF awareness booth!"
-      ],
-      "providedDetails": true,
-      "logo": "assets/ny-bionat-20261128-logo.webp"
     },
     {
       "id": "nyglaze",
@@ -795,43 +865,6 @@ window.SIG_DATA = {
       "providedDetails": true
     },
     {
-      "id": "nanyang-times",
-      "name": "The Nanyang Times",
-      "category": "communication-and-media",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/communication-and-media/nanyang-times/",
-      "photos": [
-        {
-          "src": "assets/nanyang-times-20261128-1.webp",
-          "alt": "The Nanyang Times activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/nanyang-times-20261128-2.webp",
-          "alt": "The Nanyang Times activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Explore journalism and share your perspectives on school, local and international news.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nytimes.muggership/",
-      "about": [
-        "NYTimes? Yes, you heard that right. No, we’re not the New York Times.",
-        "The Nanyang Times, or as members affectionately call it Muggership, is NY’s local outlet for all types of news–international, domestic or school-wide. A newly-formed SIG, we aim to develop members into articulate speakers and judicious thinkers as they learn more about journalism and its related ethics.",
-        "Members can expect to be able to provide personal takes and craft their own articles on topics of their choice in our SIG. We have also collaborated with various other SIGs to manage a school-wide publication while co-helming a new initiative to Spread the NYews among students, assisting them to widen their awareness of GP topics.",
-        "Want to find out more about our SIG? Check out our IG page: @nytimes.muggership",
-        "And here’s access to articles from our very own members: https://www.nyjctimes.com"
-      ],
-      "exco": [
-        "President: Saharsh",
-        "Vice President (Human Resources): Megan Lim Si Han",
-        "Vice President (Editing): Yap Hooi Qing",
-        "Vice President (Publicity): Gabriel Phang Hai Jie"
-      ],
-      "providedDetails": true,
-      "logo": "assets/nanyang-times-20261128-logo.webp"
-    },
-    {
       "id": "ny-financial-literacy",
       "name": "Nanyang Financial Society (NYFS)",
       "category": "humanities-and-social-sciences",
@@ -874,39 +907,6 @@ window.SIG_DATA = {
         "Vice president of publicity: Nguyen Quang Huy (Tom)"
       ],
       "providedDetails": true
-    },
-    {
-      "id": "nydialects",
-      "name": "NYDialects",
-      "category": "languages--cultural-and-heritage",
-      "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/nydialects/",
-      "photos": [
-        {
-          "src": "assets/nydialects-20261128-1.webp",
-          "alt": "NYDialects activity photo 1",
-          "caption": ""
-        },
-        {
-          "src": "assets/nydialects-20261128-2.webp",
-          "alt": "NYDialects activity photo 2",
-          "caption": ""
-        }
-      ],
-      "description": "Discover Chinese dialects and their cultural heritage through games and activities.",
-      "activities": [],
-      "joinUrl": "",
-      "instagram": "https://www.instagram.com/nydialects/",
-      "about": [
-        "NYDialects is a Student Interest Group (SIG) in Nanyang Junior College dedicated to preserving and promoting the rich diversity of Chinese dialects and their cultural heritage. Through engaging activities, interactive games and cultural experiences, we hope to spark students' interest in dialects such as Hokkien and Cantonese. Beyond learning common dialect phrases and expressions, members also get to explore the traditions, stories and values passed down through generations. Whether you are familiar with dialects or completely new to them, NYDialects provides a welcoming environment for everyone to discover, learn and appreciate the beauty of our linguistic heritage. Join us as we keep our dialects alive and bridge generations through language and culture!"
-      ],
-      "exco": [
-        "President: Zhang Xuan He",
-        "Vice President (Admin): Chin Yanxu",
-        "Vice President (Publicity): Ho Jun Kai",
-        "Head of Outreach (unofficial): Luke Ee Jun En"
-      ],
-      "providedDetails": true,
-      "logo": "assets/nydialects-20261128-logo.webp"
     },
     {
       "id": "nanyang-musicians-club",
