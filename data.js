@@ -779,7 +779,7 @@ window.SIG_DATA = {
       "category": "arts--crafts-and-creative-expression",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/arts--crafts-and-creative-expression/nycrochers/",
       "photos": [],
-      "description": "At NYCrochers, we find joy in making creations with nothing more than a simple ball of yarn and a crochet hook. Founded in 2022, we believe that crochet brings people together through the means of crafting and creation. Our numerous creations range from coasters and cup sleeves to adorable Amigurumis, aka plushies! Not only that, but crochet is an easy and fun skill to pick up. With just some yarn and a hook, you will be amazed by how simple and the numerous creations you can make! NYCrochers accepts anyone, be it a beginner or an expert with years of experience. We believe that passion is all it takes to get started! So join us and discover your newfound hobby!",
+      "description": "Learn crochet and create everything from coasters to plushies with fellow crafters.",
       "activities": [],
       "joinUrl": "",
       "instagram": "https://www.instagram.com/nycrochers/",
@@ -811,7 +811,7 @@ window.SIG_DATA = {
           "caption": ""
         }
       ],
-      "description": "The Nanyang Times, or as members affectionately call it Muggership, is NY’s local outlet for all types of news–international, domestic or school-wide. A newly-formed SIG, we aim to develop members into articulate speakers and judicious thinkers as they learn more about journalism and its related ethics.",
+      "description": "Explore journalism and share your perspectives on school, local and international news.",
       "activities": [],
       "joinUrl": "",
       "instagram": "https://www.instagram.com/nytimes.muggership/",
@@ -837,7 +837,7 @@ window.SIG_DATA = {
       "category": "humanities-and-social-sciences",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/humanities-and-social-sciences/ny-financial-literacy/",
       "photos": [],
-      "description": "Nanyang Financial Society (NYFS) is a community of students interested in exploring the world of finance and developing a deeper understanding of financial literacy. We aim to cultivate an appreciation for financial knowledge while equipping NYJCians with the skills to make informed financial decisions in their daily lives.",
+      "description": "Explore finance and share financial literacy through community workshops.",
       "activities": [],
       "joinUrl": "",
       "instagram": "https://www.instagram.com/nyfinancialsociety/",
@@ -861,7 +861,7 @@ window.SIG_DATA = {
       "category": "languages--cultural-and-heritage",
       "source": "https://www.nanyangjc.moe.edu.sg/life-at-nyjc/student-interest-groups/languages--cultural-and-heritage/asean-literacy-club-nyasean/",
       "photos": [],
-      "description": "Curious about the world's most dynamic regions? Come join us at NYASEAN, a SIG dedicated to exploring the cultures, economies, and societies of Southeast Asia! From cultural showcases to food trails, you can expand your global mindset and pick up new perspectives while you're at it. We aim to build a welcoming space which brings students together through a shared interest in the ASEAN region. Whether you're a Southeast Asian native or just want to try something completely new, there’s a place for you here!",
+      "description": "Explore Southeast Asian cultures, economies and societies through shared activities.",
       "activities": [],
       "joinUrl": "",
       "instagram": "",
@@ -892,7 +892,7 @@ window.SIG_DATA = {
           "caption": ""
         }
       ],
-      "description": "NYDialects is a Student Interest Group (SIG) in Nanyang Junior College dedicated to preserving and promoting the rich diversity of Chinese dialects and their cultural heritage. Through engaging activities, interactive games and cultural experiences, we hope to spark students' interest in dialects such as Hokkien and Cantonese. Beyond learning common dialect phrases and expressions, members also get to explore the traditions, stories and values passed down through generations. Whether you are familiar with dialects or completely new to them, NYDialects provides a welcoming environment for everyone to discover, learn and appreciate the beauty of our linguistic heritage. Join us as we keep our dialects alive and bridge generations through language and culture!",
+      "description": "Discover Chinese dialects and their cultural heritage through games and activities.",
       "activities": [],
       "joinUrl": "",
       "instagram": "https://www.instagram.com/nydialects/",
@@ -925,7 +925,7 @@ window.SIG_DATA = {
           "caption": ""
         }
       ],
-      "description": "The Nanyang Musicians Club, known affectionately as NYMC, was founded in 2012 and is sustained by avid music lovers in the college. Members come together to form performing bands, gaining greater insights into the dynamics and inner workings of a live band.",
+      "description": "Form bands, explore different music genres and perform with fellow music lovers.",
       "activities": [],
       "joinUrl": "",
       "instagram": "https://www.instagram.com/nymusiciansclub/",
